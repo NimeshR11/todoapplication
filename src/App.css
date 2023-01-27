@@ -1,0 +1,468 @@
+/* .App {
+  text-align: center;
+  margin-top: 250px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #323202;
+  
+}
+
+UseEffect2{
+  background-color: #bdbd5b;
+  /* border:1px solid #323202; */
+  /* border-radius: 50px;
+  box-shadow: 5px 5px #323202;
+  width: 50%;
+  margin: 0px 410px;
+  overflow: none;
+}
+.App1{
+  text-align: center;
+  /* margin-top: 200px; */
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* color: #323202; */
+  /* font-size: 30px; */
+/* }  */
+
+
+
+
+/*.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/*  
+ .h1style{
+margin: 15px  325px ;
+padding: 15px 175px;
+text-align: center;
+display: flex;
+color:purple;
+background-color:gray;
+cursor: pointer;
+box-shadow: 10px 5px 5px rgb(226, 222, 223);
+border-radius: 40px; 
+width: 55%; */
+/* height: 5vh; */
+/* align-items: center;
+} 
+
+.btn{
+   padding: 10px;
+   margin: 15px 690px;
+   background-color: rgb(24, 23, 23);
+   color: white;
+   font-style:normal;
+   border-radius: 4px;
+   cursor: pointer;
+  
+}
+
+.btn:hover{
+  background-color: rgb(223, 155, 9);
+  box-shadow: 8px 5px 5px black;
+}
+
+
+.btn1{
+  margin: 15px 15px ;
+  align-items: center;
+  padding: 2.5px;  
+  border-radius: 4px;
+  background-color: brown;
+  color: #fff;
+  display: inline-block;
+  cursor: pointer;
+}  */
+
+.username{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin: 150px auto;
+  padding: 50px;
+ background-color: rgb(6, 3, 74);
+ width: 40%;
+ height: 60vh;
+ color: #fff;
+ border-radius: 50px;
+ box-shadow: -5px -5px   rgb(205, 168, 23);
+overflow: hidden;
+}
+
+.password{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin: 20px ;
+  padding: 15px;
+ color: #fff;
+
+}
+.id{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin: 20px ;
+  padding: 15px;
+ color: #fff;
+
+}
+
+.username #name{
+  padding: auto ;
+  margin: 0 8px;
+  width: 61%;
+  border-radius: 5px;
+  border: 2px solid black;
+  color: blue;
+
+
+}
+
+.password  #code{
+   padding: auto ;
+   margin: 0 10px;
+   width: 72%;
+   border-radius: 5px;
+   border: 2px solid black;
+   color: blue;
+}
+
+.btn{
+  background-color: rgb(36, 81, 130);
+  margin: 5px 25px;
+  padding: 5px 30px;
+  color: #fff;
+  font-weight: 100;
+  font-family: 'Times New Roman', Times, serif;
+  border: 2px solid black;
+
+}
+
+.btn:hover{
+  color: #fff;
+  background-color: rgb(45, 84, 152);
+}
+
+.pas{
+  background-color: rgb(176, 111, 26);
+  text-align: center;
+  color: rgb(251, 243, 243);
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 40%;
+  padding: 15px 50px;
+  margin: 15px auto;
+  border-radius: 50px;
+}
+/* .cur{
+  margin: 15px 15px;
+  padding: 10px 50px 10px 10px;
+  background-color: rgb(10, 93, 187);
+  color: #fff;
+  border-radius: 40px;
+  text-align:center;
+  font-size: 20px;
+  display:flex;
+  font-family: 'Times New Roman', Times, serif;
+
+} */
+/* 
+ p{
+  background-color: rgb(26, 17, 192);
+  border-radius: 8px;
+  font-family: 'Times New Roman', Times, serif;
+} */
+/* .pas{
+  margin:20px 250px;
+   */
+  
+/* } */ 
+
+/* 
+html {
+  font-size: 90.5%;
+} */
+/* 
+body {
+  min-height: 100vh;
+  width: 100vw;
+  background-color: #34495e;
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; */
+  /* color: aliceblue;
+  font-family: "Raleway", sans-serif;
+} */
+
+/* .App {
+  text-align: center;
+}
+
+.App-link {
+  color: #8be3fb;
+} */
+
+/* div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+} */
+
+/* p {
+  font-size: 4rem;
+}
+
+h1 {
+  font-size: 7rem;
+  text-transform: capitalize;
+} */
+
+/* .h1style {
+  min-width: 20rem;
+  width: 60rem;
+  padding: 2rem 2rem;
+  background-color: azure;
+  color: #2980b9;
+  border-radius: 5rem;
+  box-shadow: 0rem 2rem 2rem -1.5rem rgba(0, 0, 0, 0.5);
+  margin-top: 2rem;
+  text-align: center;
+} */
+
+/* .btn,
+.btnInner {
+  margin: auto;
+  margin-top: 2rem;
+  border: none;
+  outline: none;
+  padding: 1rem 3rem;
+  background-color: #2980b9;
+  color: aliceblue;
+  cursor: pointer;
+  border-radius: 1rem;
+  font-size: 3rem;
+}  */
+/* 
+.btnInner {
+  background-color: #d12b54;
+  padding: 0.7rem 1.5rem;
+  font-size: 1.5rem;
+  margin-left: 4rem;
+}
+
+/* .btn:hover {
+  background-color: #136ca7;
+} */
+
+/* form {
+  background: cornflowerblue;
+  padding: 2rem;
+  border-radius: 1rem;
+  outline: none;
+  text-align: left;
+} */
+
+/* form label {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  text-align: left;
+  text-transform: capitalize;
+} */
+
+/* form input {
+  min-width: 20rem;
+  height: 2rem;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  text-align: left;
+  border: none;
+  margin-top: 0.3rem;
+  padding: 0.5rem;
+  outline: none;
+}
+
+button[type] {
+  border: none;
+  padding: 0.4rem 1rem;
+  text-align: center;
+  margin-top: 1rem;
+  font-family: "Raleway", sans-serif;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  outline: none;
+} */
+
+/* button[type]:hover {
+  background-color: darkblue;
+  color: aliceblue;
+} */
+
+/* .showDataStyle {
+  min-width: 20rem;
+  width: 60rem;
+  min-height: 2rem;
+  padding: 1rem;
+  background: rgb(68, 116, 207);
+  color: aliceblue;
+  margin-top: 4rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  border-radius: 1rem;
+  box-shadow: 0 1rem 1rem -0.8rem rgba(0, 0, 0, 0.5);
+}  */
+/* 
+.showDataStyle p {
+  font-size: 1.5rem;
+} */
+
+/* .showDataStyle p:first-child {
+  font-weight: bold;
+} */
+/* 
+ body {
+  background-color: #7ba6a9cb;
+  border-radius: 10px;
+  font-family: "Raleway", sans-serif;
+} */
+/* h2 {
+  text-align: center;
+  margin: 20px 0;
+}
+.textLeft {
+  text-align: left;
+}
+.loadingDiv {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+.card {
+  width: 450px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: auto;
+}
+.image {
+  min-width: 155px;
+  margin-right: 20px;
+}
+.stats {
+  background: #fefeff !important;
+  color: rgb(255, 247, 247) !important;
+}
+.articles {
+  font-size: 10px;
+  color: #f9f9f7;
+}
+.number1 {
+  font-weight: 500;
+}
+.followers {
+  font-size: 10px;
+  color: #fefdff;
+}
+.number2 {
+  font-weight: 500;
+}
+.rating {
+  font-size: 10px;
+  color: #e5e5e7;
+}
+.number3 {
+  font-weight: 500;
+} 
+
+.p-2 {
+background-color: #f6f4f6;
+} */
+
+
+
+.main-div{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background:linear-gradient(-45deg,#ee7752,#e73c7e, #23a6d5, #23d5ab);
+  animation: gradient 15s ease infinite;
+  width: 100%;
+  /* border-radius: 500px; */
+
+ 
+}
+@keyframes gradient {
+	0% {
+		background-position: 50% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 50% 50%;
+	}
+}
+
+.logo{
+  width: 40vh;
+  align-items: center;
+  margin: 15px 725px;
+  padding: auto;
+  font-size: 50px;
+}
+
+.caption{
+  width: 120vh;
+  /* height: vh; */
+  align-items: center;
+  margin: 15px auto;
+  padding: 5px auto ;
+  font-size: 25px;
+  font-weight: 200px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.addItems{
+  /* width: 100vh; */
+  margin: 150px 675px;
+  padding: 5px auto ;
+  /* background-color: #e73c7e; */
+  border-radius: #fff;
+  
+}
